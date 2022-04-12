@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.danplubell.nxconsole.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.danplubell.nxconsole.MyBundle
 
 class MyApplicationService {
 
